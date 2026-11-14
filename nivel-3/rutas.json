@@ -1,0 +1,104 @@
+{
+  "rutas": [
+    {
+      "vehiculo": "V1",
+      "salida": "10:00:00",
+      "paradas": [
+        {
+          "pedido": "P3-029",
+          "inicio": "10:15:00"
+        },
+        {
+          "pedido": "P3-031",
+          "inicio": "10:30:00"
+        },
+        {
+          "pedido": "P3-037",
+          "inicio": "10:42:18"
+        },
+        {
+          "pedido": "P3-022",
+          "inicio": "10:54:18"
+        },
+        {
+          "pedido": "P3-027",
+          "inicio": "11:07:12"
+        },
+        {
+          "pedido": "P3-039",
+          "inicio": "11:20:32"
+        },
+        {
+          "pedido": "P3-024",
+          "inicio": "11:32:32"
+        },
+        {
+          "pedido": "P3-030",
+          "inicio": "11:44:58"
+        }
+      ],
+      "regreso": "11:58:49"
+    },
+    {
+      "vehiculo": "V2",
+      "salida": "10:00:00",
+      "paradas": [],
+      "regreso": "10:00:00"
+    },
+    {
+      "vehiculo": "V3",
+      "salida": "10:00:00",
+      "paradas": [
+        {
+          "pedido": "P3-026",
+          "inicio": "10:00:26"
+        },
+        {
+          "pedido": "P3-040",
+          "inicio": "10:12:26"
+        },
+        {
+          "pedido": "P3-035",
+          "inicio": "10:26:00"
+        },
+        {
+          "pedido": "P3-025",
+          "inicio": "10:39:35"
+        },
+        {
+          "pedido": "P3-021",
+          "inicio": "10:52:22"
+        },
+        {
+          "pedido": "P3-032",
+          "inicio": "11:05:49"
+        },
+        {
+          "pedido": "P3-028",
+          "inicio": "11:18:23"
+        },
+        {
+          "pedido": "P3-038",
+          "inicio": "11:30:55"
+        },
+        {
+          "pedido": "P3-034",
+          "inicio": "11:44:20"
+        },
+        {
+          "pedido": "P3-023",
+          "inicio": "12:00:00"
+        },
+        {
+          "pedido": "P3-033",
+          "inicio": "12:13:34"
+        },
+        {
+          "pedido": "P3-036",
+          "inicio": "12:27:44"
+        }
+      ],
+      "regreso": "12:40:31"
+    }
+  ]
+}
